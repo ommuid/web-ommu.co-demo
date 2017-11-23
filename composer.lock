@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "ac60262fcbafbdd97d0cb8653cd3e2dd",
+    "content-hash": "d708f16c10b53a2793c9974dd533af47",
     "packages": [
         {
             "name": "composer/installers",
@@ -122,6 +122,95 @@
                 "zikula"
             ],
             "time": "2017-08-09T07:53:48+00:00"
+        },
+        {
+            "name": "ommu/article",
+            "version": "1.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ommu/ommu-article.git",
+                "reference": "2aa51e1ce48af621bd29f9bda5ba958e55ad504a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ommu/ommu-article/zipball/2aa51e1ce48af621bd29f9bda5ba958e55ad504a",
+                "reference": "2aa51e1ce48af621bd29f9bda5ba958e55ad504a",
+                "shasum": ""
+            },
+            "require": {
+                "ommu/yii-behavior-sluggable": "^1.0.1",
+                "oomphinc/composer-installers-extender": "^1.0",
+                "php": ">=5.3.2",
+                "yiiext/imperavi-redactor-widget": "^1.3.10",
+                "yiisoft/yii": ">=1.1.14"
+            },
+            "type": "ommu-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Putra Sudaryanto",
+                    "email": "putra@sudaryanto.id",
+                    "homepage": "https://putra.sudaryanto.id",
+                    "role": "Creator"
+                }
+            ],
+            "description": "Module Article for Ommu Platform",
+            "homepage": "https://github.com/ommu/ommu-article",
+            "keywords": [
+                "article",
+                "module",
+                "ommu",
+                "ommu platform",
+                "platform"
+            ],
+            "time": "2017-11-20T09:57:00+00:00"
+        },
+        {
+            "name": "ommu/banner",
+            "version": "1.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ommu/ommu-banner.git",
+                "reference": "a7d9e3124e9a0481f243cef7a7d7e607966c5971"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ommu/ommu-banner/zipball/a7d9e3124e9a0481f243cef7a7d7e607966c5971",
+                "reference": "a7d9e3124e9a0481f243cef7a7d7e607966c5971",
+                "shasum": ""
+            },
+            "require": {
+                "ommu/yii-behavior-sluggable": "^1.0.1",
+                "oomphinc/composer-installers-extender": "^1.0",
+                "php": ">=5.3.2",
+                "yiisoft/yii": ">=1.1.14"
+            },
+            "type": "ommu-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Putra Sudaryanto",
+                    "email": "putra@sudaryanto.id",
+                    "homepage": "https://putra.sudaryanto.id",
+                    "role": "Creator"
+                }
+            ],
+            "description": "Banner Module for Ommu Platform",
+            "homepage": "https://github.com/ommu/ommu-banner",
+            "keywords": [
+                "banner",
+                "module",
+                "ommu",
+                "ommu platform",
+                "platform"
+            ],
+            "time": "2017-11-20T09:57:22+00:00"
         },
         {
             "name": "ommu/core",
