@@ -30,10 +30,10 @@ ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_report" "/Users
 ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_support" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/support"
 
 ///article///
-hln "/Users/putrasudaryanto/htdocs/project_ommu_module/module_article" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/article"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_article" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/article"
 
 ///banner///
-hln "/Users/putrasudaryanto/htdocs/project_ommu_module/module_banner" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/banner"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_banner" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/banner"
 
 ///themes///
 ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/boucle" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/themes/boucle"
