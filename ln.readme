@@ -1,10 +1,10 @@
-ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/timthumb.php" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/timthumb.php"
+ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/timthumb.php" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/timthumb.php"
 -------
 protected/components
 =======
-ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/Controller.php" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/components/Controller.php"
-ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/ControllerApi.php" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/components/ControllerApi.php"
-ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/UserIdentity.php" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/components/UserIdentity.php"
+ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/Controller.php" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/components/Controller.php"
+ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/ControllerApi.php" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/components/ControllerApi.php"
+ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/UserIdentity.php" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/components/UserIdentity.php"
 -------
 
 
@@ -12,28 +12,28 @@ ln -f "/Users/putrasudaryanto/htdocs/project_ommu_platform/protected/components/
 protected\modules
 =======
 ///gii///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/gii_template" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/libraries/gii" 
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/gii_template" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/libraries/gii" 
 
 ///core///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_core" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/libraries/core" 
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_core" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/libraries/core" 
 
 ///themes///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/ommu_backoffice" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/themes/ommu"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/ommu_backoffice" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/themes/ommu"
 
 ///users///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_users" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/vendor/ommu/users" 
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_users" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/users" 
 
 ///report///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_report" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/vendor/ommu/report"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_report" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/report"
 
 ///support///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_support" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/protected/vendor/ommu/support"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_module/module_support" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/protected/vendor/ommu/support"
 
 ///themes///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/boucle" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/themes/boucle"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/boucle" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/themes/boucle"
 
 ///themes///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/bracketplus" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/themes/bracketplus"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/bracketplus" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/themes/bracketplus"
 
 ///themes///
-ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/rexo" "/Users/putrasudaryanto/htdocs/project_ommu_module/1st_source/themes/rexo"
+ln -sf "/Users/putrasudaryanto/htdocs/project_ommu_theme/rexo" "/Users/putrasudaryanto/htdocs/_product/ommu.co.demo/themes/rexo"
